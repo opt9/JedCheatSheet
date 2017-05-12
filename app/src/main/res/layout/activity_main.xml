@@ -8,7 +8,7 @@
         android:id="@+id/simpleExpandableListView"
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
-        android:divider="#f00"
+        android:divider="#18A597"
         android:dividerHeight="1dp" />
 
 </RelativeLayout>
